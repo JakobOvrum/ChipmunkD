@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
-Project("{002A2DE9-8BB6-484D-9802-7E4AD4084715}") = "chipmunk", "chipmunkd.visualdproj", "{8F79CD71-E251-4125-AAAA-29C4C07F46AC}"
+Project("{002A2DE9-8BB6-484D-9802-7E4AD4084715}") = "chipmunkd", "chipmunkd.visualdproj", "{8F79CD71-E251-4125-AAAA-29C4C07F46AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
