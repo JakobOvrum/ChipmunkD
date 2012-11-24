@@ -1,0 +1,8 @@
+# Library Binaries
+/lib
+
+# Visual Studio
+*.suo
+
+# Reference Headers
+*.h
